@@ -1,0 +1,293 @@
+ *, ::after, ::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+    /* overflow-x: hidden; */
+
+
+}
+
+body{
+    font-family: sans-serif;
+}
+
+/* #nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+} */
+.navbar-brandg{
+    height: 50px;
+    padding-left: 20px;
+
+}
+
+li a{
+    margin: 20px;
+    font-size: 15px;
+    color: black;
+}
+
+.leaner{
+    /* width: 600px;
+    height: 300px; */
+    background-image: linear-gradient(to right, #067e46, #7adbc3, #17826b, #23d86f);
+    position: relative;
+}
+
+.paragr1{
+    margin-bottom: 40px;
+}
+
+.right{
+    margin-top: -65px;
+    margin-left: 50px;
+    width: 150px;
+    border: 1px solid #ff3300;
+    background-color: #ff3300;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.left{
+    margin-top: -23%;
+    margin-left: 50%;
+    width: 150px;
+    border: 1px solid #ff3300;
+    background-color: #ff3300;
+    border-radius: 10px;
+}
+
+.bosbakeli{
+    margin-left: 50px;
+}
+
+.orangee{
+    margin: 20px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid #ffa500;
+    background-color: #ffa500;
+}
+
+
+.cadre{
+    width: 100%;
+    /* height: 600px; */
+    border-radius: 10px;
+    background-color: #1a914cdc;
+}
+
+
+.pro{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.graph{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.market{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.entrep{
+    margin-top: 30px;
+}
+
+.gestion{
+    margin-top: 40px;
+}
+
+.bureau{
+    margin-top: 50px;
+}
+
+
+.sp1{
+    margin-left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.bord{
+    width: 450px;
+    height: 390px;
+    border: 1px solid #48d9ec;
+    border-radius: 15px;
+    
+}
+
+
+.Voir{
+    margin-left: 185px;
+    margin-top: 40px;
+   background-color: #e73e32;
+   color: white;
+}
+
+/* ==============style section 2============ */
+
+.pro2{
+    border: 1px solid #d8291d;
+    border-radius: 15px;
+    margin-left: 0px;
+    width: 300px;
+    margin-left: 8%;
+}
+
+.graph2{
+    border: 1px solid #1dd85b;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 8%;
+}
+
+.Market2{
+    border: 1px solid  #F5B21A;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 8%;
+}
+
+.gestion2{
+    border: 1px solid #1dd85b;
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 8%;
+   
+}
+
+.im1{
+    padding: 20px;
+}
+
+/* ==============style section 3============ */
+
+span{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+.img2{
+    margin-left: 20px;
+}
+
+.text1{
+    margin-left: 90px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+
+.bg4{
+    background-color: #e73e32;
+}
+
+/* ==============style section 4============ */
+  
+.bottom-img{
+    width: 100%;
+    background-color: #e73e32;
+}
+
+.btn2{
+    margin-left: 50%;
+    margin-bottom: 70px;
+   background-color: #e73e32;
+   color: white;
+}
+
+
+
+.services{
+    border: 1px solid #48d9ec;
+    /* width: 100%; */
+    /* height: 90%; */
+}
+
+
+.carousel-indicators li{
+    background: gray;
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+
+.carousel-indicators{
+    bottom: -75px;
+}
+/* ==============style section 5============ */
+
+.marge1{
+    /* margin-top: 100px; */
+}
+
+/* .padd2{
+    padding: 0px 70px 50px 90px;
+} */
+
+/* .parti2{
+    margin-top: 80px;
+} */
+
+.backgr2{
+    background-color: #e73e32;
+    color: white;
+    margin-top: 150px;
+}
+
+.top-img{
+    width: 101%;
+    background-color: #e73e32;
+    
+}
+
+.bake1{
+    width: 300px;
+}
+
+/* ==============style section 6============ */
+
+.backgg{
+    background-color: #7adbc3;
+}
+
+.padd3{
+    padding-top: 60px;
+    padding-bottom: 50px;
+    border-radius: 80px;
+}
+
+.padd3:hover{
+    box-shadow: var(--box-shadow);
+    transform: scale(1.1);
+}
+
+.bttn3{
+    margin-left: 50%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+   background-color: #e73e32;
+   color: white;
+}
+
+.backgg3{
+    background-color: #218a84fb;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.copirgh{
+    margin-top: -21px;
+    margin-left: 90%;
+    color: white;
+}
+
